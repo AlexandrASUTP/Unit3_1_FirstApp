@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Юнит 3.1", "Юнит 3.1.csproj", "{C3436AC3-80CC-4010-90BF-40A0E4C1C9CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Юнит 3.1", "Юнит 3.1.csproj", "{C3436AC3-80CC-4010-90BF-40A0E4C1C9CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Юнит_3_3", "..\Юнит_3_3\Юнит_3_3.csproj", "{53253A40-1AE9-4264-ABA2-EFEB1D6D775D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C3436AC3-80CC-4010-90BF-40A0E4C1C9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3436AC3-80CC-4010-90BF-40A0E4C1C9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3436AC3-80CC-4010-90BF-40A0E4C1C9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53253A40-1AE9-4264-ABA2-EFEB1D6D775D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53253A40-1AE9-4264-ABA2-EFEB1D6D775D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53253A40-1AE9-4264-ABA2-EFEB1D6D775D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53253A40-1AE9-4264-ABA2-EFEB1D6D775D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
